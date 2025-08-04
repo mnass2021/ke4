@@ -1,0 +1,21 @@
+{
+  "name": "Seguimiento Ésteres KE4",
+  "short_name": "KE4 Tracker",
+  "description": "App de seguimiento diario para glucogenosis tipo 3a",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
